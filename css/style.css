@@ -1382,6 +1382,7 @@ body.overflow-disabled {
       -ms-flex-direction: column;
           flex-direction: column;
   grid-gap: 1rem;
+  margin-bottom: 3rem;
 }
 
 .mobile-menu__main-link {
@@ -1422,11 +1423,10 @@ body.overflow-disabled {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-top: auto;
   max-width: 15rem;
   width: 100%;
   grid-gap: 1rem;
-  margin-bottom: 5rem;
+  margin-bottom: 0rem;
   display: none;
 }
 
